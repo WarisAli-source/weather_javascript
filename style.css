@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(-145deg, #8B819B, #ffd6d6);
+    background: black;
     flex-direction: column;
 
 }
